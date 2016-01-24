@@ -11,7 +11,7 @@ tap "caskroom/versions"
 
 # Install Casks
 
-# mac utils apps
+# utils
 cask "caffeine"
 cask "flux"
 cask "spectacle"
