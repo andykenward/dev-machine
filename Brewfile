@@ -1,4 +1,5 @@
 # Brewfile
+brew "wget"
 brew "node"
 brew "python"
 brew "git"
