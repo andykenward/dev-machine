@@ -38,12 +38,23 @@ cask "nylas-n1"
 # ftp
 cask "transmit"
 
-# other
-cask "slack"
+# media
 cask "vlc"
 cask "spotify"
+
+# misc
 cask "evernote"
-cask "chronosync"
-cask "discord"
 cask "sketch"
+
+# chat
+cask "slack"
+cask "gitter"
+cask "discord"
+
+# file sync
+cask "bittorrent-sync"
+cask "chronosync"
 cask "dropbox"
+
+# security
+cask "1password"
