@@ -1,7 +1,5 @@
 # Brewfile
 brew "wget"
-brew "node"
-brew "python"
 brew "git"
 brew "git-flow"
 
@@ -13,10 +11,9 @@ tap "caskroom/versions"
 # Install Casks
 
 # utils
-cask "caffeine"
 cask "flux"
 cask "spectacle"
-cask "iterm2"
+cask "iterm2-beta"
 cask "the-unarchiver"
 
 # editor
@@ -48,13 +45,6 @@ cask "sketch"
 
 # chat
 cask "slack"
-cask "gitter"
-cask "discord"
 
 # file sync
-cask "bittorrent-sync"
 cask "chronosync"
-cask "dropbox"
-
-# security
-cask "1password"
