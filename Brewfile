@@ -13,7 +13,7 @@ tap "caskroom/versions"
 # utils
 cask "flux"
 cask "spectacle"
-cask "iterm2-beta"
+cask "iterm2"
 cask "the-unarchiver"
 
 # editor
@@ -27,10 +27,6 @@ cask "firefoxdeveloperedition"
 
 # git IDE
 cask "sourcetree"
-cask "github-desktop"
-
-# email client
-cask "nylas-n1"
 
 # ftp
 cask "transmit"
