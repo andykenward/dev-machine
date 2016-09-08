@@ -29,6 +29,7 @@ cask "firefoxdeveloperedition"
 
 # git IDE
 cask "sourcetree"
+cask "tower"
 
 # ftp
 cask "transmit"
