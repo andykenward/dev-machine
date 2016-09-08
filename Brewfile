@@ -2,6 +2,8 @@
 brew "wget"
 brew "git"
 brew "git-flow"
+brew "python"
+brew "awscli"
 
 # Install Cask
 tap "caskroom/cask"
