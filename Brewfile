@@ -47,3 +47,6 @@ cask "slack"
 
 # file sync
 cask "chronosync"
+
+#virtualmachine
+cask "virtualbox"
