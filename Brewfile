@@ -50,3 +50,7 @@ cask "chronosync"
 
 #virtualmachine
 cask "virtualbox"
+
+#misc
+cask "keybase"
+cask "tunnelbear"
