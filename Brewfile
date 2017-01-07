@@ -1,9 +1,11 @@
 # Brewfile
 brew "wget"
+brew "fish"
 brew "git"
 brew "git-flow"
 brew "python"
 brew "awscli"
+brew "yarn"
 
 # Install Cask
 tap "caskroom/cask"
@@ -20,6 +22,7 @@ cask "the-unarchiver"
 
 # editor
 cask "atom"
+cask "visual-studio-code"
 
 # browsers
 cask "google-chrome-canary"
