@@ -16,13 +16,11 @@ tap "caskroom/drivers"
 # Install Casks
 
 # utils
-cask "flux"
 cask "spectacle"
 cask "iterm2"
 cask "the-unarchiver"
 
 # editor
-cask "atom"
 cask "visual-studio-code"
 
 # browsers
@@ -32,7 +30,6 @@ cask "firefox"
 cask "firefoxdeveloperedition"
 
 # git IDE
-cask "sourcetree"
 cask "tower"
 
 # ftp
@@ -45,9 +42,12 @@ cask "spotify"
 # misc
 cask "evernote"
 cask "sketch"
+cask "fontexplorer-x-pro"
 
 # chat
 cask "slack"
+cask "discord"
+cask "gitter"
 
 # file sync
 cask "chronosync"
@@ -56,5 +56,8 @@ cask "chronosync"
 cask "virtualbox"
 
 #misc
-cask "keybase"
 cask "tunnelbear"
+cask "alfred"
+cask "totalspaces"
+cask "bartender"
+cask "screenflow"
