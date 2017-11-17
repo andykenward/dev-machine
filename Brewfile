@@ -6,6 +6,7 @@ brew "git-flow"
 brew "python"
 brew "awscli"
 brew "yarn"
+brew "docker"
 
 # Install Cask
 tap "caskroom/cask"
@@ -17,17 +18,26 @@ tap "caskroom/drivers"
 
 # utils
 cask "spectacle"
-cask "iterm2"
 cask "the-unarchiver"
+cask "tunnelbear"
+cask "alfred"
+cask "totalspaces"
+cask "bartender"
+cask "screenflow"
+cask "muzzle"
+cask "dropshare"
+cask "gifox"
 
 # editor
 cask "visual-studio-code"
+cask "visual-studio-code-insiders"
 
 # browsers
 cask "google-chrome-canary"
 cask "google-chrome"
 cask "firefox"
 cask "firefoxdeveloperedition"
+cask "safari-technology-preview"
 
 # git IDE
 cask "tower"
@@ -55,9 +65,3 @@ cask "chronosync"
 #virtualmachine
 cask "virtualbox"
 
-#misc
-cask "tunnelbear"
-cask "alfred"
-cask "totalspaces"
-cask "bartender"
-cask "screenflow"
