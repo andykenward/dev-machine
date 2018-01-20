@@ -36,7 +36,7 @@ cask "visual-studio-code-insiders"
 cask "google-chrome-canary"
 cask "google-chrome"
 cask "firefox"
-cask "firefoxdeveloperedition"
+cask "firefox-developer-edition"
 cask "safari-technology-preview"
 
 # git IDE
