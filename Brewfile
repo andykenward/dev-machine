@@ -2,6 +2,7 @@
 brew "wget"
 brew "git"
 brew "git-flow"
+brew "direnv"
 
 # Install Cask Versions
 tap "homebrew/cask-versions"
@@ -13,6 +14,7 @@ cask "the-unarchiver"
 cask "alfred"
 cask "bartender"
 cask "1password"
+cask "hyper"
 
 # editor
 cask "visual-studio-code"
@@ -27,9 +29,6 @@ cask "brave-browser"
 
 # git IDE
 cask "tower"
-
-# ftp
-cask "transmit"
 
 # media
 cask "vlc"
