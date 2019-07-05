@@ -15,6 +15,7 @@ cask "alfred"
 cask "bartender"
 cask "1password"
 cask "hyper"
+cask "amethyst"
 
 # editor
 cask "visual-studio-code"
